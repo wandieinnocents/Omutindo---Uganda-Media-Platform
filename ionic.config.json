@@ -1,0 +1,7 @@
+{
+  "name": "mactest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
